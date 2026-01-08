@@ -17,6 +17,7 @@ const menuItems = computed(() => ([
   { title: t('navbar.KeepAlive'), route: 'keepalive' },
   { title: t('navbar.ScrollCache'), route: 'scroll-cache' },
   { title: t('navbar.404'), route: 'unknown' },
+  { title: t('navbar.FineReportDemos'), route: 'finereport-demos' },
 ]))
 
 const showLanguagePicker = ref(false)

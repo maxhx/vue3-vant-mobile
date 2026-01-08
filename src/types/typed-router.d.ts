@@ -51,6 +51,34 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    'FineReport': RouteRecordInfo<
+      'FineReport',
+      '/finereport',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    'FineReportDemos': RouteRecordInfo<
+      'FineReportDemos',
+      '/finereport-demos',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    'FineReportTab': RouteRecordInfo<
+      'FineReportTab',
+      '/finereport-tab',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
+    'FineReportTest': RouteRecordInfo<
+      'FineReportTest',
+      '/finereport-test',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     'ForgotPassword': RouteRecordInfo<
       'ForgotPassword',
       '/forgot-password',
@@ -148,6 +176,30 @@ declare module 'vue-router/auto-routes' {
     'src/pages/counter/index.vue': {
       routes:
         | 'Counter'
+      views:
+        | never
+    }
+    'src/pages/finereport/index.vue': {
+      routes:
+        | 'FineReport'
+      views:
+        | never
+    }
+    'src/pages/finereport-demos/index.vue': {
+      routes:
+        | 'FineReportDemos'
+      views:
+        | never
+    }
+    'src/pages/finereport-tab/index.vue': {
+      routes:
+        | 'FineReportTab'
+      views:
+        | never
+    }
+    'src/pages/finereport-test/index.vue': {
+      routes:
+        | 'FineReportTest'
       views:
         | never
     }

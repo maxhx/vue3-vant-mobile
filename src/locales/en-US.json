@@ -18,7 +18,11 @@
     "ForgotPassword": "❓ Forgot Password",
     "Settings": "⚙️ Settings",
     "404": "⚠️ Page 404",
-    "Undefined": "🤷 Undefined title"
+    "Undefined": "🤷 Undefined title",
+    "FineReport": "📈 FineReport Integration",
+    "FineReportTab": "📈 FineReport Multi-Tab",
+    "FineReportDemos": "📈 FineReport Demos Collection",
+    "FineReportTest": "📈 FineReport Test"
   },
 
   "tabbar": {

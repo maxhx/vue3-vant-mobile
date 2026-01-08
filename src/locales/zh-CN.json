@@ -18,7 +18,11 @@
     "ForgotPassword": "❓ 忘记密码",
     "Settings": "⚙️ 设置",
     "404": "⚠️ 404 页面",
-    "Undefined": "🤷 未定义标题"
+    "Undefined": "🤷 未定义标题",
+    "FineReport": "📈 FineReport 集成",
+    "FineReportTab": "📈 FineReport 多页签",
+    "FineReportDemos": "📈 FineReport 示例合集",
+    "FineReportTest": "📈 FineReport 测试"
   },
 
   "tabbar": {
