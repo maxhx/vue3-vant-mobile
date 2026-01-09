@@ -65,6 +65,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    'FineReportPhone': RouteRecordInfo<
+      'FineReportPhone',
+      '/finereport-phone',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     'FineReportTab': RouteRecordInfo<
       'FineReportTab',
       '/finereport-tab',
@@ -188,6 +195,12 @@ declare module 'vue-router/auto-routes' {
     'src/pages/finereport-demos/index.vue': {
       routes:
         | 'FineReportDemos'
+      views:
+        | never
+    }
+    'src/pages/finereport-phone/index.vue': {
+      routes:
+        | 'FineReportPhone'
       views:
         | never
     }

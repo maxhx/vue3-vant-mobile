@@ -9,7 +9,7 @@ const reportUrl
     <iframe
       :src="reportUrl"
       frameborder="0"
-      width="100%"
+      width="95%"
       height="100%"
     />
   </div>

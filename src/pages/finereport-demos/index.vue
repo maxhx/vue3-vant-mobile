@@ -33,6 +33,14 @@
           前往 FineReport Test 演示
         </router-link>
       </div>
+
+      <div class="demo-card">
+        <h2>FineReport Phone示例 演示</h2>
+        <p>FineReport Phone示例 演示</p>
+        <router-link to="/finereport-phone" class="demo-link">
+          前往 FineReport Phone示例 演示
+        </router-link>
+      </div>
     </div>
   </div>
 </template>
